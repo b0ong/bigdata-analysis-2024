@@ -19,5 +19,5 @@
 - 로지스틱 회귀분석
 - 결정트리
 
-#### 특징데이터로 유방암 진단(https://github.com/b0ong/bigdata-analysis-2024/blob/main/day11/da25_%EC%9C%A0%EB%B0%A9%EC%95%94%EC%A7%84%EB%8B%A8_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
+#### [특징데이터로 유방암 진단](https://github.com/b0ong/bigdata-analysis-2024/blob/main/day11/da25_%EC%9C%A0%EB%B0%A9%EC%95%94%EC%A7%84%EB%8B%A8_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D.ipynb)
 - 
