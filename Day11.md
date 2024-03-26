@@ -40,7 +40,7 @@
 
 #### 텍스트 마이닝
 
-##### [감성분석 + 바차트]()
+##### [감성분석 + 바차트](https://github.com/b0ong/bigdata-analysis-2024/blob/main/day13/da29_%EB%84%A4%EC%9D%B4%EB%B2%84%EB%89%B4%EC%8A%A4_%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D.ipynb)
 - 코로나 뉴스로 감성 분석
 
     ![긍정뉴스바차트](https://github.com/b0ong/bigdata-analysis-2024/blob/main/images/ba020.png)
