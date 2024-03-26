@@ -29,7 +29,9 @@
 
 ##### [결정트리](https://github.com/b0ong/bigdata-analysis-2024/blob/main/day12/ba27_%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC_%EB%B6%84%EC%84%9D.ipynb)
 
-    ![결정트리Lev11](https://github.com/b0ong/bigdata-analysis-2024/blob/main/images/ba019.png)
+<!--!![결정트리](https://github.com/b0ong/bigdata-analysis-2024/blob/main/images/ba019.png) -->
+<!-- 마크다운 이미지태그보다 html이미지로-->
+<img src="https://github.com/b0ong/bigdata-analysis-2024/blob/main/images/ba019.png" width="800">
 
 #### 텍스트 마이닝
 - 영화리뷰 데이터로 감성예측
