@@ -44,3 +44,7 @@
 - 코로나 뉴스로 감성 분석
 
     ![긍정뉴스바차트](https://github.com/b0ong/bigdata-analysis-2024/blob/main/images/ba020.png)
+
+
+--------
+[이전](https://github.com/b0ong/bigdata-analysis-2024/tree/main)
